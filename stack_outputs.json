@@ -1,0 +1,12 @@
+{
+  "AwsAccountId": "272626058261",
+  "AwsRegion": "us-west-2",
+  "S3Bucket": "sagemaker-soln-bs-2-snake-bucket",
+  "SolutionPrefix": "sagemaker-soln-bs-2",
+  "SageMakerIamRoleArn": "arn:aws:iam::272626058261:role/sagemaker-soln-bs-2-us-west-2-nb-role",
+  "SnakeAPI": "https://vewfclekze.execute-api.us-west-2.amazonaws.com/snake/",
+  "EndPointS3Location": "s3://sagemaker-solutions-prod-us-west-2/sagemaker-battlesnake-ai/1.1.0/build/model-complete.tar.gz",
+  "SagemakerEndPointName": "sagemaker-soln-bs-2-ep",
+  "SagemakerTrainingInstanceType": "ml.m5.xlarge",
+  "SagemakerInferenceInstanceType": "ml.t2.medium"
+}
